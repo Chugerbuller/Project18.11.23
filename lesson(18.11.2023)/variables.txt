@@ -1,0 +1,6 @@
+input_file
+output-file-dsa
+path;input-adw
+calc_num da
+odd*num/awd*221-sda
+first-name-user

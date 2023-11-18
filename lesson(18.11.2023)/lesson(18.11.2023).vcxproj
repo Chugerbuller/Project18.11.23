@@ -129,6 +129,14 @@
   <ItemGroup>
     <ClCompile Include="lesson(18.11.2023).cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="output.txt" />
+    <Text Include="variables.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="arrayfunctions.h" />
+    <ClInclude Include="FileFunctions.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
